@@ -6,8 +6,6 @@
 
 <p> ▸ Soy Full-Stack Web Developer de Argentina. </p>
 
-<p> ▸ Actualmente estoy en la etapa final de la cursada en SoyHenry. </p>
-
 <p> ▸ Estoy buscando colaborar en proyectos para seguir aprendiendo. </p>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
