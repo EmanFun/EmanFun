@@ -1,5 +1,9 @@
 <h1>Hola, mi nombre es Ignacio</h1>
 
+<p>Soy un apasionado desarrollador full stack web junior con una sólida base en tecnologías front-end y back-end.
+ Mi entusiasmo por la programación y la creación de soluciones tecnológicas me impulsa a buscar oportunidades emocionantes 
+en el campo de la tecnología. Con una mentalidad orientada a la resolución de problemas y un compromiso con el aprendizaje continuo, aspiro a contribuir al diseño y desarrollo de aplicaciones web de alta calidad.</p>
+
 <p> Gracias por visitar mi perfil de GitHub! </p>
 
 <h2> Sobre mí <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="135px" align="right"></h2>
