@@ -6,7 +6,7 @@ en el campo de la tecnología. Con una mentalidad orientada a la resolución de 
 
 <p> Gracias por visitar mi perfil de GitHub! </p>
 
-<h2> Sobre mí <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="135px" align="right"></h2>
+<h2> Sobre mí 
 
 <p> ▸ Soy Full-Stack Web Developer de Argentina. </p>
 
