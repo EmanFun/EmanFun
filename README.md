@@ -1,14 +1,12 @@
 <h1>Hola, mi nombre es Emanuel</h1>
 
-<p>Soy un apasionado desarrollador full stack web junior con una sólida base en tecnologías front-end y back-end.
- Mi entusiasmo por la programación y la creación de soluciones tecnológicas me impulsa a buscar oportunidades emocionantes 
-en el campo de la tecnología. Con una mentalidad orientada a la resolución de problemas y un compromiso con el aprendizaje continuo, aspiro a contribuir al diseño y desarrollo de aplicaciones web de alta calidad.</p>
+<p>Desarrollador Full Stack Web con 7 meses de experiencia especializada en Front End y habilidades comprobadas en Node.js, React, PostgreSQL, y TypeScript. Me destaco por mi capacidad para aprender rápidamente nuevas tecnologías, resolver problemas de manera eficiente y colaborar de forma efectiva en equipos. Estoy en búsqueda de nuevos desafíos que me permitan seguir creciendo profesionalmente y aportar al éxito de proyectos tecnológicos dinámicos e innovadores.</p>
 
 <p> Gracias por visitar mi perfil de GitHub! </p>
 
 <h2> Sobre mí 
 
-<p> ▸ Soy Full-Stack Web Developer de Argentina. </p>
+<p> ▸ Soy Full-Stack Web Developer. </p>
 
 <p> ▸ Estoy buscando colaborar en proyectos para seguir aprendiendo. </p>
 
